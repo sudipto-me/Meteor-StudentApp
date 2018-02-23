@@ -1,1 +1,7 @@
+This is my first app built in Meteor.Js.
+Meteor.JS is a full stack javascript frame work.
+I implemented simple crud application in this application which is using MongoDB by default.
+You can check it if you want to start your journey in Meteor.JS.
 
+Happy Coding.
+Peace
